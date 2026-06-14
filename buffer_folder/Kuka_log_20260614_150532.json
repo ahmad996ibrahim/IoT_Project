@@ -1,0 +1,62 @@
+[
+    {
+        "meta_data": {
+            "factory_id": "Dubai_001",
+            "machine_ID": "kuka_27000",
+            "timestamp": "2026-06-14T15:05:32.562748"
+        },
+        "robot_data": {
+            "tempbycelesuis": 48.77,
+            "currentbyAmp": 14.82,
+            "status": "Running"
+        }
+    },
+    {
+        "meta_data": {
+            "factory_id": "Dubai_001",
+            "machine_ID": "kuka_27000",
+            "timestamp": "2026-06-14T15:05:33.563272"
+        },
+        "robot_data": {
+            "tempbycelesuis": 59.83,
+            "currentbyAmp": 19.45,
+            "status": "Running"
+        }
+    },
+    {
+        "meta_data": {
+            "factory_id": "Dubai_001",
+            "machine_ID": "kuka_27000",
+            "timestamp": "2026-06-14T15:05:34.563684"
+        },
+        "robot_data": {
+            "tempbycelesuis": 68.68,
+            "currentbyAmp": 10.31,
+            "status": "Running"
+        }
+    },
+    {
+        "meta_data": {
+            "factory_id": "Dubai_001",
+            "machine_ID": "kuka_27000",
+            "timestamp": "2026-06-14T15:05:35.564207"
+        },
+        "robot_data": {
+            "tempbycelesuis": 57.6,
+            "currentbyAmp": 17.81,
+            "status": "Running"
+        }
+    },
+    {
+        "meta_data": {
+            "factory_id": "Dubai_001",
+            "machine_ID": "kuka_27000",
+            "timestamp": "2026-06-14T15:05:36.564488"
+        },
+        "robot_data": {
+            "tempbycelesuis": 35.84,
+            "currentbyAmp": 18.89,
+            "status": "Running"
+        }
+    }
+]

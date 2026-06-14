@@ -8,7 +8,7 @@ def kuka_robot_arm ():
         "joint_temp1" : random.uniform(20.0 , 70.0),
         "motor_current" : random.uniform(10.0 , 20.0),
         "status" : "Running"
-    }
+        }
 
 historical_data = []
 
